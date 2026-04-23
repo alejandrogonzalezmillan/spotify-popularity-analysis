@@ -1,0 +1,21 @@
+# Data (ODbL compliance - no redistribuir)
+data/
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editores
+.vscode/
+.idea/
+
+# SO
+.DS_Store
+Thumbs.db
